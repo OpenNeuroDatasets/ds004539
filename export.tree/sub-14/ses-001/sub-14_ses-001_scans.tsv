@@ -1,0 +1,7 @@
+filename	acq_time	operator	randstr
+func/sub-14_ses-001_task-blockStim_run-001_cbv.nii.gz	2022-03-14T16:33:29.162500	n/a	ce95732b
+func/sub-14_ses-001_task-eventStimRandom_run-001_cbv.nii.gz	2022-03-14T16:48:47.165000	n/a	1a2a7ffd
+func/sub-14_ses-001_task-eventStimRandom_run-002_cbv.nii.gz	2022-03-14T17:03:05.912500	n/a	882c3191
+anat/sub-14_ses-001_inv-1_part-mag_MP2RAGE.nii.gz	2022-03-14T17:17:16.940000	n/a	0b5c5872
+anat/sub-14_ses-001_inv-2_part-mag_MP2RAGE.nii.gz	2022-03-14T17:17:18.797500	n/a	90cc139b
+anat/sub-14_ses-001_UNIT1.nii.gz	2022-03-14T17:17:18.797500	n/a	c2477eef

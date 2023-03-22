@@ -1,7 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-07_ses-001_task-blockStim_run-001_cbv.nii.gz	2021-09-27T13:07:18	n/a	a065d693
-func/sub-07_ses-001_task-blockStim_run-002_cbv.nii.gz	2021-09-27T13:22:17	n/a	e2e3b3b3
-func/sub-07_ses-001_task-eventStim_run-001_cbv.nii.gz	2021-09-27T13:39:43	n/a	d80690f3
-func/sub-07_ses-001_task-eventStim_run-002_cbv.nii.gz	2021-09-27T13:53:18	n/a	af319c85
-func/sub-07_ses-001_task-eventStim_run-003_cbv.nii.gz	2021-09-27T14:07:57	n/a	385a7020
-func/sub-07_ses-001_task-eventStim_run-004_cbv.nii.gz	2021-09-27T14:22:23	n/a	86cff4ca

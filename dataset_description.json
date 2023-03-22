@@ -9,7 +9,7 @@
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [],
-    "HowToAcknowledge": "Data was acquired at Scannexus (Maastricht, the Netherlands). We thank Chris Wiggins for providing the 3rd order shimming tools used here. We thank Benedikt Poser for kindly sharing his 3D-EPI sequence code used here and helpful advice on layer-fMRI VASO optimization and reconstructions. ",
+    "HowToAcknowledge": "",
     "License": "CC0",
     "Name": "TODO: name of the dataset",
     "ReferencesAndLinks": [

@@ -1,3 +1,5 @@
+1.1.1 2023-07-06
+  - Add data to index HRF based on FIR analysis
 1.1.0 2023-03-22
   - Add name and update description
 1.0.0 2023-03-22
